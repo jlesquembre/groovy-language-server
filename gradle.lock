@@ -135,6 +135,12 @@
       "hash": "sha256-EEnPVgdhDAw41DLt46fLETmO3BSq2IOq3fjwPwnvc7k="
     }
   },
+  "org.apache:apache:23": {
+    "apache-23.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/apache/23/apache-23.pom",
+      "hash": "sha256-vBBiTgYj82V3+sVjnKKTbTJA7RUvttjVM6tNJwVDSRw="
+    }
+  },
   "org.apache:apache:18": {
     "apache-18.pom": {
       "url": "https://plugins.gradle.org/m2/org/apache/apache/18/apache-18.pom",
@@ -209,16 +215,38 @@
       "hash": "sha256-RCmU1ThfuSIwz4JH40kbXuYgA5Xqnt8E6+whE26j8kk="
     }
   },
+  "org.apache.logging:logging-parent:3": {
+    "logging-parent-3.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/logging/logging-parent/3/logging-parent-3.pom",
+      "hash": "sha256-djouwrgJTUFh3rbCZLEmIIW5vjC/OjHCzhNyQuV3Iqc="
+    }
+  },
   "org.apache.logging:logging-parent:1": {
     "logging-parent-1.pom": {
       "url": "https://plugins.gradle.org/m2/org/apache/logging/logging-parent/1/logging-parent-1.pom",
       "hash": "sha256-NLK/T1MagJFolhZy/0GdGr+WcluN/lKYDwDIxOsTS9Y="
     }
   },
+  "org.apache.logging.log4j:log4j:2.17.0": {
+    "log4j-2.17.0.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j/2.17.0/log4j-2.17.0.pom",
+      "hash": "sha256-hwRgb663edbSkE8CymFuC5gf44nZ/puJ7ISh5CrugdI="
+    }
+  },
   "org.apache.logging.log4j:log4j:2.11.0": {
     "log4j-2.11.0.pom": {
       "url": "https://plugins.gradle.org/m2/org/apache/logging/log4j/log4j/2.11.0/log4j-2.11.0.pom",
       "hash": "sha256-x4aYPHv6lQoCMbnPwrwrU3ATTALBHg9X2FZggqiDhvM="
+    }
+  },
+  "org.apache.logging.log4j:log4j-api:2.17.0": {
+    "log4j-api-2.17.0.jar": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-api/2.17.0/log4j-api-2.17.0.jar",
+      "hash": "sha256-q5ytyA4jRYDj88jBhkQxT8zUs80/cIXU6TSGbLVhuV0="
+    },
+    "log4j-api-2.17.0.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-api/2.17.0/log4j-api-2.17.0.pom",
+      "hash": "sha256-ZCLZr1mssAd+ipHHw0pAYv9WqXMcNINqckJwhOJ6pHk="
     }
   },
   "org.apache.logging.log4j:log4j-api:2.11.0": {
@@ -229,6 +257,16 @@
     "log4j-api-2.11.0.pom": {
       "url": "https://plugins.gradle.org/m2/org/apache/logging/log4j/log4j-api/2.11.0/log4j-api-2.11.0.pom",
       "hash": "sha256-Bcwtp3otDyS0gDy/641kog9UlNCTobzXhy/iiqOQadk="
+    }
+  },
+  "org.apache.logging.log4j:log4j-core:2.17.0": {
+    "log4j-core-2.17.0.jar": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-core/2.17.0/log4j-core-2.17.0.jar",
+      "hash": "sha256-ZcM9ybJKXl9srK5iaAZBWCiUdJx78WyVEDLvkvPhKmA="
+    },
+    "log4j-core-2.17.0.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-core/2.17.0/log4j-core-2.17.0.pom",
+      "hash": "sha256-WUQnTrlVkKznwmIB2XJbSrHHZU0pU658wm1z/95AaL4="
     }
   },
   "org.apache.logging.log4j:log4j-core:2.11.0": {
